@@ -1,1 +1,1 @@
-# DemoBlockchain
+# ComplianceBlockchain
